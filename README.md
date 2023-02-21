@@ -1,2 +1,5 @@
 # rust-mail
-Simple rust mail client
+
+Command line mail client written in rust.
+
+
